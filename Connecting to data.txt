@@ -1,0 +1,3 @@
+In this project, I have used JSON server to fetch the data from the database . therefore you need to put the following command in the terminal to watch the data so that it can fetch the data 
+
+npx json-server --watch data/db.json --port 8000
